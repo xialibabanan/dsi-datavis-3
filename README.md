@@ -1,2 +1,6 @@
 # dsi-datavis-3
-Week 3 blog
+
+For the first couple weeks, the problem I faced is about the codes. What are they, what does every code mean? Because while I was writing the codes by following other people’s step. I was not sure what is the codes for and what shows next. I think I need to know the exactly the language is. What is the theorems and rule of the codes. And I am also wondering what the binary system, and the relationship of the binary system and coding. I am sorry that I have a lot of questions. Thank you so much for being our teacher. 
+
+My thesis topic is about the dark and monopolized production chain of chemical chicken meat. As we know, the breeding of chicken in the United States is very bad for the environment because of pollution and Land use. And also the more important thing is that the way and the fodder they feed the chickens will bring very bad influence on the human body, it's harmful and poison. So I would like to educate the kids or teens about the negative side of eating the chemical chickens. So when they grow and when they can choose what to eat, they will have a mind of choosing a healthy and environmental friendly dietary. If they are well educated, their generation would have a chance to change the broad environment of meat production. I’m having a hard time doing my thesis project now. Because I still cannot find an organization to work with and I have no idea what my problem statement should be. 
+
