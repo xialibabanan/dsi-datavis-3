@@ -1,4 +1,5 @@
-# dsi-datavis-3
+# Week 3 blog 
+Introduction to computational media
 
 For the first couple weeks, the problem I faced is about the codes. What are they, what does every code mean? Because while I was writing the codes by following other people’s step. I was not sure what is the codes for and what shows next. I think I need to know the exactly the language is. What is the theorems and rule of the codes. And I am also wondering what the binary system, and the relationship of the binary system and coding. I am sorry that I have a lot of questions. Thank you so much for being our teacher. 
 
